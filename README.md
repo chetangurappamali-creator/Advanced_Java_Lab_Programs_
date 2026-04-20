@@ -31,6 +31,13 @@ lab3:
     p2.java:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/lab4/Screenshot%202026-04-20%20234951.png
     p3.java:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/lab4/Screenshot%202026-04-20%20233819.png
 
+    lab5:
+
+  p1.java:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/lab5/Screenshot%202026-04-21%20000831.png
+  p2.java:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/lab5/Screenshot%202026-04-21%20000853.png
+  p3.java:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/lab5/Screenshot%202026-04-21%20000917.png
+  p4.java:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/lab5/Screenshot%202026-04-21%20000931.png
+
 
     lab5:
 
