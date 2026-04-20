@@ -13,6 +13,17 @@ lab1:
   lab2:
     performancetest.java:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/stringoperations/Screenshot%202026-04-20%20224344.png
     StringOperationDemo.java:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/stringoperations/Screenshot%202026-04-20%20224404.png
-
+lab3:
+  p2:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/stringoperationss/Screenshot%202026-04-20%20225255.png
+  p22:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/stringoperationss/Screenshot%202026-04-20%20225040.png
+  p3:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/stringoperationss/Screenshot%202026-04-20%20225109.png
+  p4:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/stringoperationss/Screenshot%202026-04-20%20225132.png
+  p5:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/stringoperationss/Screenshot%202026-04-20%20225154.png
+  p6:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/stringoperationss/Screenshot%202026-04-20%20225242.png
+  p7:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/stringoperationss/Screenshot%202026-04-20%20225255.png
+  p8:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/stringoperationss/Screenshot%202026-04-20%20225021.png
+  p9:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/stringoperationss/Screenshot%202026-04-20%20225109.png
+  p10:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/stringoperationss/Screenshot%202026-04-20%20225255.png
+  
   
     
