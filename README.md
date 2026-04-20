@@ -10,7 +10,9 @@ lab1:
   prog9:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/listoperations/lab1output/Screenshot%202026-04-20%20213059.png
   prog10:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/listoperations/lab1output/Screenshot%202026-04-20%20213113.png
   listoperationsdemo.java:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/listoperations/lab1output/Screenshot%202026-04-20%20215744.png
-
+  lab2:
+    performancetest.java:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/stringoperations/Screenshot%202026-04-20%20224344.png
+    StringOperationDemo.java:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/stringoperations/Screenshot%202026-04-20%20224404.png
 
   
     
