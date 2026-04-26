@@ -85,9 +85,14 @@ sevenb.java: page1: https://github.com/chetangurappamali-creator/lab7/blob/main/
 
 
 
-    LAB 8  : https://github.com/chetangurappamali-creator/lab8.git
 
-    cookieServlet.java:lab8a:https://github.com/chetangurappamali-creator/lab8/blob/main/Screenshot%202026-04-21%20181621.png cookiesServlet.java:lab8b:https://github.com/chetangurappamali-creator/lab8/blob/main/Screenshot%202026-04-21%20181733.png
+
+LAB 8  : https://github.com/chetangurappamali-creator/lab8.git
+
+cookieServlet.java:lab8a:https://github.com/chetangurappamali-creator/lab8/blob/main/Screenshot%202026-04-21%20181621.png cookiesServlet.java:lab8b:https://github.com/chetangurappamali-creator/lab8/blob/main/Screenshot%202026-04-21%20181733.png
+
+
+
 
 
 
