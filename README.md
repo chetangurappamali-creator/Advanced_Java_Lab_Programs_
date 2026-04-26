@@ -45,6 +45,37 @@ lab3:
       p2.java:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/lab5/Screenshot%202026-04-21%20000853.png
       p3.java:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/lab5/Screenshot%202026-04-21%20000917.png
       p4.java:https://github.com/chetangurappamali-creator/Advanced_Java_Lab_Programs_/blob/main/lab5/Screenshot%202026-04-21%20000931.png
+
     
+  LAB6
+  CookieServlet.java:webpage1:https://github.com/chetangurappamali-creator/LABSIX/blob/main/Screenshot%202026-04-21%20002820.png webpage2:https://github.com/chetangurappamali-creator/LABSIX/blob/main/Screenshot%202026-04-21%20002838.png
+
+Factorial.java:webpage1:https://github.com/chetangurappamali-creator/LABSIX/blob/main/Screenshot%202026-04-21%20002924.png webpage2:https://github.com/chetangurappamali-creator/LABSIX/blob/main/Screenshot%202026-04-21%20002930.png
+
+PrimeServlet.java:webpage1:https://github.com/chetangurappamali-creator/LABSIX/blob/main/Screenshot%202026-04-21%20003008.png webpage2:https://github.com/chetangurappamali-creator/LABSIX/blob/main/Screenshot%202026-04-21%20003016.png
+
+LAB7
+Helloworldsecond.java: page1: https://github.com/chetangurappamali-creator/lab7/blob/main/Screenshot%202026-04-21%20004129.png page2: https://github.com/chetangurappamali-creator/lab7/blob/main/Screenshot%202026-04-21%20004142.png page3:https://github.com/chetangurappamali-creator/lab7/blob/main/Screenshot%202026-04-21%20004154.png
+
+sevenb.java: page1: https://github.com/chetangurappamali-creator/lab7/blob/main/Screenshot%202026-04-21%20004308.png page2:https://github.com/chetangurappamali-creator/lab7/blob/main/Screenshot%202026-04-21%20004319.png page3:https://github.com/chetangurappamali-creator/lab7/blob/main/Screenshot%202026-04-21%20004334.png
+
+
+    LAB 8 
+
+    cookieServlet.java:lab8a:https://github.com/chetangurappamali-creator/lab8/blob/main/Screenshot%202026-04-21%20181621.png cookiesServlet.java:lab8b:https://github.com/chetangurappamali-creator/lab8/blob/main/Screenshot%202026-04-21%20181733.png
+
+LAB- 9
+com.sessiontracking/sessiontracking.java:https://github.com/chetangurappamali-creator/lab9/blob/main/Screenshot%202026-04-21%20182402.png
+
+nineb:page1:https://github.com/chetangurappamali-creator/lab9/blob/main/Screenshot%202026-04-21%20182843.png page2:https://github.com/chetangurappamali-creator/lab9/blob/main/Screenshot%202026-04-21%20182854.png page3:https://github.com/chetangurappamali-creator/lab9/blob/main/Screenshot%202026-04-21%20182904.png
+
+nineC:page1:https://github.com/chetangurappamali-creator/lab9/blob/main/Screenshot%202026-04-21%20182929.png page2:https://github.com/chetangurappamali-creator/lab9/blob/main/Screenshot%202026-04-21%20182940.png page3:https://github.com/chetangurappamali-creator/lab9/blob/main/Screenshot%202026-04-21%20182951.png
+
+
+
+LAB 10
+
+lab10a:page1:https://github.com/chetangurappamali-creator/lab10/blob/main/Screenshot%202026-04-21%20182951.png page2:https://github.com/chetangurappamali-creator/lab10/blob/main/Screenshot%202026-04-21%20184802.png
+
+lab10b:ResultServlet.java:page1:https://github.com/chetangurappamali-creator/lab10/blob/main/Screenshot%202026-04-21%20184848.png page2:https://github.com/chetangurappamali-creator/lab10/blob/main/Screenshot%202026-04-21%20184909.png
   
-    
