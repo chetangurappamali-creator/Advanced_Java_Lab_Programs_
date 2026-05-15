@@ -94,7 +94,8 @@ lab3:
 Factorial.java:webpage1:https://github.com/chetangurappamali-creator/LABSIX/blob/main/Screenshot%202026-04-21%20002924.png 
 webpage2:https://github.com/chetangurappamali-creator/LABSIX/blob/main/Screenshot%202026-04-21%20002930.png
 
-PrimeServlet.java:webpage1:https://github.com/chetangurappamali-creator/LABSIX/blob/main/Screenshot%202026-04-21%20003008.png webpage2:https://github.com/chetangurappamali-creator/LABSIX/blob/main/Screenshot%202026-04-21%20003016.png
+PrimeServlet.java:webpage1:https://github.com/chetangurappamali-creator/LABSIX/blob/main/Screenshot%202026-04-21%20003008.png 
+webpage2:https://github.com/chetangurappamali-creator/LABSIX/blob/main/Screenshot%202026-04-21%20003016.png
 
 
 
@@ -103,7 +104,8 @@ PrimeServlet.java:webpage1:https://github.com/chetangurappamali-creator/LABSIX/b
 
 LAB -7 : https://github.com/chetangurappamali-creator/lab7.git
 
-Helloworldsecond.java: page1: https://github.com/chetangurappamali-creator/lab7/blob/main/Screenshot%202026-04-21%20004129.png page2: https://github.com/chetangurappamali-creator/lab7/blob/main/Screenshot%202026-04-21%20004142.png 
+Helloworldsecond.java: page1: https://github.com/chetangurappamali-creator/lab7/blob/main/Screenshot%202026-04-21%20004129.png 
+page2: https://github.com/chetangurappamali-creator/lab7/blob/main/Screenshot%202026-04-21%20004142.png 
 
 page3:https://github.com/chetangurappamali-creator/lab7/blob/main/Screenshot%202026-04-21%20004154.png
 
